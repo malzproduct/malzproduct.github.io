@@ -6,7 +6,7 @@
   <title>MALZ - Index</title>
   
  <!-- Favicons -->
-  <link href="e:/malz proudct/assets/img/malzicon.png" rel="icon">
+  <link href="assets/img/malzicon.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
 <!-- Google Fonts -->
