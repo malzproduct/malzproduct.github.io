@@ -71,9 +71,9 @@
 		<div class="container">
 			<div class="flex-container">
 				<div class="flex-item-12" data-aos="zoom-in">
-					<center>
-					<img src="assets/img/oil.jpeg" height =600 width=400>
-					</center>
+					
+					<img src="assets/img/oil.jpeg" height=600 width=400>
+					
 				</div>
 			</div>
 		</div>
