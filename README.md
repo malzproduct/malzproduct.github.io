@@ -72,7 +72,7 @@
 			<div class="flex-container">
 				<div class="flex-item-12" data-aos="zoom-in">
 					<center>
-					<img src="assets/img/oil.jpeg" " alt="image" height =600 width=400>
+					<img src="assets/img/oil.jpeg" height =600 width=400>
 					</center>
 				</div>
 			</div>
