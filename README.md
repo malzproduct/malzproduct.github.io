@@ -92,8 +92,8 @@
 							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Headache.</li>
 							
 						</ul>
-						<p>
-						<i> For Children, dilute 1 to 2 drops of MLB in 5 ML of coconut oil and apply on chest and back to get rid of phlegm</i>
+						<p align="left">
+						<i> For Children, dilute 1 to 2 drops of MLB in 5 ML of coconut oil and apply on chest and back to get rid of phlegm</i><br>
 *Conditions Apply<br>
 
 <small>Before applying MLB we recommend to do a patch test and then use.</small>						</p>
