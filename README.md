@@ -1,4 +1,4 @@
-ight 
+e>ight 
 <html><head>
 	<meta charset="utf-8">
 	<meta content="width=device-width, initial-scale=1.0" name="viewport">
@@ -71,9 +71,9 @@ ight
 		<div class="container">
 			<div class="flex-container">
 				<div class="flex-item-12" data-aos="zoom-in">
-					
+				<center>	
 					<img src="assets/img/oil.jpeg" align="center" height=600 width=400>
-				
+				</center>
 				</div>
 			</div>
 		</div>
