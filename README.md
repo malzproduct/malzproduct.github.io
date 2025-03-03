@@ -83,7 +83,7 @@
 			<div class="flex-container">
 				<div class="flex-item-8 imgcon">
 					<div class="about-items" data-aos="zoom-in">
-						<h3>Our Malz herbal Liquid Balm  is prepared with the main ingredients like Menthol, Thymol and Base </h3>
+						<h3>Malz herbal liquid balm, a quick go to roll-on solution in your pocket, as a daily need to protect against cold related infections, headache and body pain for a healthy and happy life.</h3>
 						<p>Instant relief from:</p>
 						<ul>
 							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Cold.</li>
