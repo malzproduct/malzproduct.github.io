@@ -100,9 +100,7 @@
 				</div>
 				<div class="flex-item-4 imgcon">
 					<div class="about-image-img video-wrap" data-aos="zoom-in">
-						<video width="100%" height="auto" autoplay playsinline loop>																	<source src="assets/img/vid.mp4" type="video/mp4">
-							Your browser does not support the video tag.
-						</video>
+						<img src="assets/img/liqbalm.jpeg"  height=600 width=400> 
 					</div>
 				</div>
 			</div>
