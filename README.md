@@ -30,7 +30,7 @@ ight
 			<div class="flex-container align-center">
 				<div class="flex-item-3 headtop">
 					<div class="mentor">
-						 <img src="assets/img/malzgreenlogo1.jpeg" class="malzlogo" alt="image" height=200 width=800>
+						 <img src="assets/img/malzgreenlogo1.jpeg" class="malzlogo" alt="image">
 					</div>
 				</div>
 				<div class="flex-item-9 headtoptwo">
