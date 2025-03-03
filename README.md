@@ -1,4 +1,4 @@
-
+ight 
 <html><head>
 	<meta charset="utf-8">
 	<meta content="width=device-width, initial-scale=1.0" name="viewport">
@@ -30,7 +30,7 @@
 			<div class="flex-container align-center">
 				<div class="flex-item-3 headtop">
 					<div class="mentor">
-						<img src="assets/img/malzgreenlogo1.jpeg" class="malzlogo" alt="image">
+						 <img src="assets/img/malzgreenlogo1.jpeg" class="malzlogo" alt="image" height=200 width=800>
 					</div>
 				</div>
 				<div class="flex-item-9 headtoptwo">
