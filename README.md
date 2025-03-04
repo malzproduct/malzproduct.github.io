@@ -54,8 +54,8 @@
 		<div  class="flex-container bancon">
 		<div data-aos="zoom-in" data-aos-delay="100" >
 			<div class="content ">
-				  <h4 id="contenthead" class="flex-item-12">MALZ LIQUID BALM</h4>
-				  <h2> A handy Balm for the <br> Family</h2>
+				  <h4 id="contenthead" class="flex-item-12"><b>M</b>ALZ <b>L</b>IQUID <b>B</b>ALM</h4>
+				  <h2> A handy Balm for the Family</h2>
 			</div>
 			</div>
 		</div>
