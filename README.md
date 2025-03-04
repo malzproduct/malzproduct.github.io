@@ -49,19 +49,17 @@
 	
 	
 	<!-- ======= banner Section ======= -->
-  <section id="banner" class="d-flex justify-content-center align-items-center">
+ <section id="banner" class="d-flex justify-content-center align-items-center">
     <div class="container ">
 		<div  class="flex-container bancon">
 		<div data-aos="zoom-in" data-aos-delay="100" >
-		
+		<h5>"Proprietary Herbal Product"</h5>
 			<div class="content ">
-   			<center>
-				  <h4 id="contenthead" class="flex-item-12" >MALZ <BR>LIQUID <BR>BALM</h4>
-			
-				  <h2>A handy Balm<br> for the   <BR> Family </h2>
-			</center>			
-   </div>
-		</div>
+				  <h4 id="contenthead" class="flex-item-12" >"MALZ LIQUID BALM"</h4>
+				  <h4 id="contenthead" class="flex-item-12">"MALZ LIQUID BALM"</h4>
+				  <h2>A handy Balm for the Family</h2>
+			</div>
+			</div>
 		</div>
     </div>
   </section><!-- End banner -->
