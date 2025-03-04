@@ -56,7 +56,7 @@
 			<div class="content ">
 			        <h4 id="contenthead" class="flex-item-12"><big><big><big>M</big></big></big>ALZ <big><big><big>L</big></big></big>IQUID <big><big><big>B</big></big></big>ALM</h4>
 				<h4 id="contenthead" class="flex-item-12"><big><big><big>M</big></big></big>ALZ <big><big><big>L</big></big></big>IQUID <big><big><big>B</big></big></big>ALM</h4>
-				  <br><h2> A handy Balm for the Family</h2>
+				  <h2> A handy Balm for the Family</h2>
 			</div>
 			</div>
 		</div>
