@@ -90,8 +90,9 @@
 							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> sneezing.</li>
 							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Nose congestion.</li>
        
-<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Neck, Shoulder, Legs and Body pain.</li>							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Headache.</li>
-							
+       <li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Headache.</li>
+				
+<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Neck, Shoulder, Legs and Body pain.</li>										
 						</ul>
 						<p align="left">
 						<i> For Children, dilute 1 to 2 drops of MLB in 5 ML of coconut oil and apply* on chest and back to get rid of phlegm</i><br>
