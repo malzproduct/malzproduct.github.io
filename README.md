@@ -56,8 +56,8 @@
 			<div class="content ">
 				<br> <br><br><br><br>
 				<h4 id="contenthead" class="flex-item-12"><big><big><big>M</big></big></big>ALZ </h4>
-				<h1 id="contenthead" class="flex-item-12"><big><big><big>M</big></big></big>ALZ </h1><br><br><br><br><br><br>
-				<h1 id="contenthead" class="flex-item-12"><big><big><big>L</big></big></big>IQUID <big><big><big>B</big></big></big>ALM</h1>
+				<h4 id="contenthead" class="flex-item-12"><big><big><big>M</big></big></big>ALZ </h4><br><br><br><br><br><br>
+				<h4 id="contenthead" class="flex-item-12"><big><big><big>L</big></big></big>IQUID <big><big><big>B</big></big></big>ALM</h41>
 				  <h4>A handy Balm for the<br>Family</h4>
 			</div>
 			</div>
