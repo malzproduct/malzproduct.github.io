@@ -1,4 +1,4 @@
-ii
+
 <html><head>
 	<meta charset="utf-8">
 	<meta content="width=device-width, initial-scale=1.0" name="viewport">
@@ -56,10 +56,10 @@ ii
 		
 			<div class="content ">
 				  <h4 id="contenthead" class="flex-item-12" >"MALZ <BR> LIQUID <BR>BALM"</h4>
-				  <h4 id="contenthead" class="flex-item-12">"MALZ <BR> LIQUID  <BR> BALM"</h4>
+			
 				  <h2>A handy Balm for the   <BR> Family </h2>
 			</div>
-			</div>
+		</div>
 		</div>
     </div>
   </section><!-- End banner -->
