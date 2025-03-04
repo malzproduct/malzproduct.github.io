@@ -83,7 +83,7 @@
 			<div class="flex-container">
 				<div class="flex-item-8 imgcon">
 					<div class="about-items" data-aos="zoom-in">
-						<h3>Malz herbal liquid balm, a quick go to roll-on solution in your pocket, as a daily need to protect against cold related infections, headache and body pain for a healthy and happy life.</h3>
+						<h3>Malz liquid balm, a quick go to roll-on solution in your pocket, as a daily need to protect against cold related infections, headache and body pain for a healthy and happy life.</h3>
 						<p align="left">Instant relief from:</p>
 						<ul>
 							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Cold.</li>
@@ -94,7 +94,7 @@
 							
 						</ul>
 						<p align="left">
-						<i> For Children*, dilute 1 to 2 drops of MLB in 5 ML of coconut oil and apply on chest and back to get rid of phlegm</i><br>
+						<i> For Children, dilute 1 to 2 drops of MLB in 5 ML of coconut oil and apply* on chest and back to get rid of phlegm</i><br>
 
 *<small>Before applying MLB we recommend to do a patch test and then use.</small>						</p>
 					</div>
