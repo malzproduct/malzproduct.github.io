@@ -57,8 +57,8 @@
 			<div class="content ">
 				  <h4 id="contenthead" class="flex-item-12" >"MALZ <BR> LIQUID BALM"</h4>
 				  <h4 id="contenthead" class="flex-item-12">"MALZ <BR> LIQUID BALM"</h4>
-				  <h2>A handy Balm for the Family</h2>
-			</div>
+				  <h2>A handy Balm for the   <BR> Family 
+			</div
 			</div>
 		</div>
     </div>
