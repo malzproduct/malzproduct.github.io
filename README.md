@@ -55,7 +55,8 @@
 		<div data-aos="zoom-in" data-aos-delay="100" >
 			<div class="content ">
 				<h4 id="contenthead" class="flex-item-12"><big><big><big>M</big></big></big>ALZ </h4><br>
-				<h4 id="contenthead" class="flex-item-12"><<big><big><big>L</big></big></big>IQUID <big><big><big>B</big></big></big>ALM</h4>
+				<h4 id="contenthead" class="flex-item-12"><big><big><big>M</big></big></big>ALZ </h4><br>
+				<h4 id="contenthead" class="flex-item-12"><big><big><big>L</big></big></big>IQUID <big><big><big>B</big></big></big>ALM</h4>
 				  <h2> A handy Balm for the Family</h2>
 			</div>
 			</div>
