@@ -53,7 +53,7 @@
     <div class="container ">
 		<div  class="flex-container bancon">
 		<div data-aos="zoom-in" data-aos-delay="100" >
-		<h5>"Proprietary Herbal Product"</h5>
+		<h5>"Proprietary Malz Product"</h5>
 			<div class="content ">
 				  <h4 id="contenthead" class="flex-item-12" >"MALZ LIQUID BALM"</h4>
 				  <h4 id="contenthead" class="flex-item-12">"MALZ LIQUID BALM"</h4>
@@ -89,14 +89,14 @@
 							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Cold.</li>
 							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> sneezing.</li>
 							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Nose congestion.</li>
-							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Headache.</li>
+       
+<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Neck, Shoulder, Legs and Body pain.</li>							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Headache.</li>
 							
 						</ul>
 						<p align="left">
 						<i> For Children*, dilute 1 to 2 drops of MLB in 5 ML of coconut oil and apply on chest and back to get rid of phlegm</i><br>
-*Conditions Apply<br>
 
-<small>Before applying MLB we recommend to do a patch test and then use.</small>						</p>
+*<small>Before applying MLB we recommend to do a patch test and then use.</small>						</p>
 					</div>
 				</div>
 				<div class="flex-item-4 imgcon">
