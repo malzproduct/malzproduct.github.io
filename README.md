@@ -55,10 +55,12 @@
 		<div data-aos="zoom-in" data-aos-delay="100" >
 		
 			<div class="content ">
-				  <h4 id="contenthead" class="flex-item-12" >MALZ <BR> LIQUID <BR>BALM</h4>
+   			<center>
+				  <h4 id="contenthead" class="flex-item-12" >MALZ <BR>LIQUID <BR>BALM</h4>
 			
-				  <h2>A handy Balm for the   <BR> Family </h2>
-			</div>
+				  <h2>A handy Balm<br> for the   <BR> Family </h2>
+			</center>			
+   </div>
 		</div>
 		</div>
     </div>
@@ -87,12 +89,17 @@
 						<p align="left">Instant relief from:</p>
 						<ul>
 							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Cold.</li>
-							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> sneezing.</li>
+							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Sneezing.</li>
 							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Nose congestion.</li>
        
        <li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Headache.</li>
 				
-<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Neck, Shoulder, Legs and Body pain.</li>										
+<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Neck Pain.</li>	
+<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Shoulder Pain.</li>										
+
+<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Leg Pain and </li>										
+<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Body Pain.</li>										
+
 						</ul>
 						<p align="left">
 						<i> For Children, dilute 1 to 2 drops of MLB in 5 ML of coconut oil and apply* on chest and back to get rid of phlegm</i><br>
