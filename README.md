@@ -54,7 +54,7 @@
 		<div  class="flex-container bancon">
 		<div data-aos="zoom-in" data-aos-delay="100" >
 			<div class="content ">
-				<br> <br><br><br><br>
+				<br> <br><br>
 				<h4 id="contenthead" class="flex-item-12"><big><big><big>M</big></big></big>ALZ </h4>
 				<h4 id="contenthead" class="flex-item-12"><big><big><big>M</big></big></big>ALZ </h4><br><br><br><br><br><br>
 				<h4 id="contenthead" class="flex-item-12"><big><big><big>L</big></big></big>IQUID <big><big><big>B</big></big></big>ALM</h4>
@@ -87,16 +87,17 @@
 						<h3>Malz liquid balm, a quick go to roll-on solution in your pocket, as a daily need to protect against cold related infections, headache and body pain for a healthy and happy life.</h3>
 						<p align="left">Instant relief from:</p>
 						<ul>
-							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Cold.</li>
-							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Sneezing.</li>
-							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Nose congestion.</li>
+							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Cold</li>
+							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Sneezing</li>
+							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Nose congestion</li>
        
-       <li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Headache.</li>
+       <li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Headache</li>
 				
-<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Neck Pain.</li>	
-<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Shoulder Pain.</li>										
+<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Neck Pain</li>	
+<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Shoulder Pain</li>										
 
-<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Leg Pain and </li>										
+<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Leg Pain </li>	
+<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Knee Pain and </li>	
 <li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Body Pain.</li>										
 
 						</ul>
