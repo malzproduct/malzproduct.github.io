@@ -58,8 +58,7 @@
 				<h4 id="contenthead" class="flex-item-12"><big><big><big>M</big></big></big>ALZ </h4>
 				<h4 id="contenthead" class="flex-item-12"><big><big><big>M</big></big></big>ALZ </h4><br><br><br><br>
 				<h4 id="contenthead" class="flex-item-12"><big><big><big>L</big></big></big>IQUID <big><big><big>B</big></big></big>ALM</h4>
-				  <h5>A handy Balm for the</h5><br>
-				  <h5>Family</h5>
+				  <h5 color="red">A handy Balm for the Family</h5>
 			</div>
 			</div>
 		</div>
