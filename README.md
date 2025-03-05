@@ -54,7 +54,7 @@
 		<div  class="flex-container bancon">
 		<div data-aos="zoom-in" data-aos-delay="100" >
 			<div class="content ">
-				<br> <br><br>
+				<br> 
 				<h4 id="contenthead" class="flex-item-12"><big><big><big>M</big></big></big>ALZ </h4>
 				<h4 id="contenthead" class="flex-item-12"><big><big><big>M</big></big></big>ALZ </h4><br><br><br><br>
 				<h4 id="contenthead" class="flex-item-12"><big><big><big>L</big></big></big>IQUID <big><big><big>B</big></big></big>ALM</h4>
