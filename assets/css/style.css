@@ -4,7 +4,7 @@ bg*{
 	box-sizing:border-box;
 }
 .container{
-	width:90%;
+	width:90%;bg_
 	margin:0 auto;
 } 
 .flex-container{
@@ -124,7 +124,7 @@ bg*{
   margin:0 auto;
 }
 #banner{
-	background: url("../img/bg_img1.jpeg") top center;
+	background: url("../img/bg_img1.png") top center;
 	background-size:cover;
 	background-attachment:fixed;
 	width:100%;
@@ -468,7 +468,7 @@ bg*{
 	text-align:center;
 } 
 	#banner{
-	background: url("../img/bg_img1.jpeg") top center;
+	background: url("../img/bg_img1.png") top center;
 	background-size:cover;
 	background-attachment:fixed;
 	width:100%;
