@@ -53,12 +53,11 @@
     <div class="container ">
 		<div  class="flex-container bancon">
 		<div data-aos="zoom-in" data-aos-delay="100" >
-		<div class="content ">
-			<h5>"Proprietary Herbal Product"</h5>
-		
-				  <h4 id="contenthead" class="flex-item-12" >"MALZ LIQUID BALM"</h4>
-				  <h4 id="contenthead" class="flex-item-12">"MALZ LIQUID BALM"</h4>
-				  <h2>"A handy Balm for the Family"</h2>
+		<h5>"Proprietary Herbal Tooth Powder"</h5>
+			<div class="content ">
+				  <h4 id="contenthead" class="flex-item-12" >"ACTIVATED CHARCOAL TOOTHPOWDER"</h4>
+				  <h4 id="contenthead" class="flex-item-12">"ACTIVATED CHARCOAL TOOTHPOWDER"</h4>
+				  <h2>"Experience a healthier smile with our all-natural organic tooth powder."</h2>
 			</div>
 			</div>
 		</div>
@@ -67,13 +66,12 @@
 
 	<section class="banner" id="about">
 		<div>
-  			<br><br><br>
-			<h1 class="headings">ABOOUT</h1>
+			<h1 class="headings">ABOUT</h1>
 		</div>
 		<div class="container">
 			<div class="flex-container">
 				<div class="flex-item-12" data-aos="zoom-in">
-					<img src="assets/img/oil.jpeg" class="img-banner" alt="image">
+					<img src="assets/img/malzlable.png" class="img-banner" alt="image">
 				</div>
 			</div>
 		</div>
@@ -82,30 +80,23 @@
 		<div class="container">
 			<div class="flex-container">
 				<div class="flex-item-8 imgcon">
-							<h3>Malz liquid balm, a quick go to roll-on solution in your pocket, as a daily need to protect against cold related infections, headache and body pain for a healthy and happy life.</h3>
-						<p align="left">Instant relief from:</p>
+					<div class="about-items" data-aos="zoom-in">
+						<h3>Our malz herbal tooth powder is prepared with Activated carbon 
+						(coconut shell) as the main ingredient plus mint, clove, camphor(+) and  salt.</h3>
+						<p>While brushing teeth with Malz herbal tooth powder daily:</p>
 						<ul>
-							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Cold</li>
-							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Sneezing</li>
-							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Nose congestion</li>
-       
-       <li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Headache</li>
-				
-<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Neck Pain</li>	
-<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Shoulder Pain</li>										
-
-<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Leg Pain </li>	
-<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Knee Pain and </li>	
-<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Body Pain.</li>										
-
+							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Removes bad breath.</li>
+							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Removes stains from teeth.</li>
+							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Makes teeth shine.</li>
+							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Strengthens the teeth and gum area.</li>
+							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Protects the tongue and mouth from infections.</li>
 						</ul>
-						<p align="left">
-						<i> For Children, dilute 1 to 2 drops of MLB in 5 ML of coconut oil and apply* on chest and back to get rid of phlegm</i><br>
-
-*<small>Before applying MLB we recommend to do a patch test and then use.</small>						</p>
+						<p>
+						  Activated Charcoal, which is mainly added to tooth powder, benefits the body in many ways. 
+						  It has the ability to fight inflammation, blood pressure, diabetes etc.
+						</p>
 					</div>
-				
-
+				</div>
 				<div class="flex-item-4 imgcon">
 					<div class="about-image-img video-wrap" data-aos="zoom-in">
 						<video width="100%" height="auto" autoplay playsinline loop>
