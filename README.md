@@ -54,11 +54,11 @@
 		<div  class="flex-container bancon">
 		<div data-aos="zoom-in" data-aos-delay="100" >
 		<div class="content ">
-			<h2>"Proprietary Herbal Product"</h2>
+			<h5>"Proprietary Herbal Product"</h5>
 		
 				  <h4 id="contenthead" class="flex-item-12" >"MALZ LIQUID BALM"</h4>
 				  <h4 id="contenthead" class="flex-item-12">"MALZ LIQUID BALM"</h4>
-				  <h2>"A handy Balm for the Family"</h2><br><br><br><br>
+				  <h2>"A handy Balm for the Family"</h2>
 			</div>
 			</div>
 		</div>
