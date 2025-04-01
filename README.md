@@ -1,5 +1,6 @@
-
-<html><head>
+<!DOCTYPE html>
+<html>
+<head>
 	<meta charset="utf-8">
 	<meta content="width=device-width, initial-scale=1.0" name="viewport">
 
@@ -30,7 +31,7 @@
 			<div class="flex-container align-center">
 				<div class="flex-item-3 headtop">
 					<div class="mentor">
-						 <img src="assets/img/malzgreenlogo1.jpeg" class="malzlogo" alt="image">
+						<img src="assets/img/malzgreenlogo1.jpeg" class="malzlogo" alt="image">
 					</div>
 				</div>
 				<div class="flex-item-9 headtoptwo">
@@ -49,16 +50,15 @@
 	
 	
 	<!-- ======= banner Section ======= -->
- <section id="banner" class="d-flex justify-content-center align-items-center">
+  <section id="banner" class="d-flex justify-content-center align-items-center">
     <div class="container ">
 		<div  class="flex-container bancon">
 		<div data-aos="zoom-in" data-aos-delay="100" >
+		<h5>"Proprietary Herbal Product"</h5>
 			<div class="content ">
-				<br> 
-				<h4 id="contenthead" class="flex-item-12"><big><big><big>M</big></big></big>ALZ </h4>
-				<h4 id="contenthead" class="flex-item-12"><big><big><big>M</big></big></big>ALZ </h4><br><br><br><br>
-				<h4 id="contenthead" class="flex-item-12"><big><big><big>L</big></big></big>IQUID <big><big><big>B</big></big></big>ALM</h4>
-				  <h5><big>A handy Balm for the Family</big></h5>
+				  <h4 id="contenthead" class="flex-item-12" >"MALZ LIQUID BAKM"</h4>
+				  <h4 id="contenthead" class="flex-item-12">"MALZ LIQUID BAKM"</h4>
+				  <h2>"A handy Balm for the Family"</h2>
 			</div>
 			</div>
 		</div>
@@ -72,9 +72,7 @@
 		<div class="container">
 			<div class="flex-container">
 				<div class="flex-item-12" data-aos="zoom-in">
-				<center>	
-					<img src="assets/img/oil.jpeg" align="center" height=600 width=400>
-				</center>
+					<img src="assets/img/oil.jpeg" class="img-banner" alt="image">
 				</div>
 			</div>
 		</div>
@@ -83,8 +81,7 @@
 		<div class="container">
 			<div class="flex-container">
 				<div class="flex-item-8 imgcon">
-					<div class="about-items" data-aos="zoom-in">
-						<h3>Malz liquid balm, a quick go to roll-on solution in your pocket, as a daily need to protect against cold related infections, headache and body pain for a healthy and happy life.</h3>
+							<h3>Malz liquid balm, a quick go to roll-on solution in your pocket, as a daily need to protect against cold related infections, headache and body pain for a healthy and happy life.</h3>
 						<p align="left">Instant relief from:</p>
 						<ul>
 							<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Cold</li>
@@ -107,9 +104,13 @@
 *<small>Before applying MLB we recommend to do a patch test and then use.</small>						</p>
 					</div>
 				</div>
+
 				<div class="flex-item-4 imgcon">
 					<div class="about-image-img video-wrap" data-aos="zoom-in">
-						<img src="assets/img/liqbalm.jpeg"  height=600 width=400> 
+						<video width="100%" height="auto" autoplay playsinline loop>
+							<source src="assets/img/vid.mp4" type="video/mp4">
+							Your browser does not support the video tag.
+						</video>
 					</div>
 				</div>
 			</div>
@@ -125,7 +126,7 @@
 		<div>
       
 	  
-	  <br>
+	  <br></br>
 
       <div class="container">
 
@@ -240,7 +241,7 @@ function videoScroll() {
   }
 
 }
-</script> 
+</script>
 
 </body>
 </html>
