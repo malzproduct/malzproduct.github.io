@@ -58,7 +58,7 @@
 		
 				  <h4 id="contenthead" class="flex-item-12" >"MALZ LIQUID BALM"</h4>
 				  <h4 id="contenthead" class="flex-item-12">"MALZ LIQUID BALM"</h4>
-				  <h2>"A handy Balm for the Family"</h2>
+				  <h2>"A handy Balm for the Family"</h2><br><br><br><br>
 			</div>
 			</div>
 		</div>
