@@ -67,7 +67,7 @@
 
 	<section class="banner" id="about">
 		<div>
-			<h1 class="headings">ABOUT</h1>
+			<h1 class="headings">ABOoUT</h1>
 		</div>
 		<div class="container">
 			<div class="flex-container">
