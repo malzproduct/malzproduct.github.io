@@ -103,7 +103,7 @@
 
 *<small>Before applying MLB we recommend to do a patch test and then use.</small>						</p>
 					</div>
-				</div>
+				
 
 				<div class="flex-item-4 imgcon">
 					<div class="about-image-img video-wrap" data-aos="zoom-in">
