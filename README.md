@@ -76,6 +76,14 @@
 				</div>
 			</div>
 		</div>
+  <div class="container">
+			<div class="flex-container">
+				<div class="flex-item-12" data-aos="zoom-in">
+					<img src="assets/img/malzlable.png" class="img-banner" alt="image">
+				</div>
+			</div>
+		</div>
+
 	</section>
 	<section class="about">
 		<div class="container">
@@ -111,6 +119,13 @@
 						<img src="assets/img/oil-row.jpg"  height=600 width=400>							
 					</div>
 				</div>
+			    <div class="flex-item-4 imgcon">
+					<div class="about-image-img video-wrap" data-aos="zoom-in">
+						<img src="assets/img/bottle.jpg"  height=600 width=400>							
+					</div>
+					
+			</div>
+    
 			</div>
 		</div>
 	</section>
