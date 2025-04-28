@@ -83,7 +83,14 @@
 				</div>
 			</div>
 		</div>
-
+  
+<div class="container">
+			<div class="flex-container">
+				<div class="flex-item-12" data-aos="zoom-in">
+					<img src="assets/img/pricecombo.jpg" class="img-banner" alt="image">
+				</div>
+			</div>
+		</div>
 	</section>
 	<section class="about">
 		<div class="container">
