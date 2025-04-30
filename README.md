@@ -103,7 +103,7 @@
 <li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Shoulder Pain</li>										
 
 <li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Leg Pain </li>	
-<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Muscle Pain and </li>	
+<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Muscle Pain  </li>	
 <li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Body Pain.</li>										
 
 						</ul>
