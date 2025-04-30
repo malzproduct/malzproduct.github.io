@@ -79,7 +79,7 @@
   <div class="container">
 			<div class="flex-container">
 				<div class="flex-item-12" data-aos="zoom-in">
-					<img src="assets/img/malzlable.png" class="img-banner" alt="image">
+					<img src="assets/img/oil-row.jpg" class="img-banner" alt="image">
 				</div>
 			</div>
 		</div>
@@ -110,7 +110,7 @@
 <li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Shoulder Pain</li>										
 
 <li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Leg Pain </li>	
-<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Knee Pain and </li>	
+<li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Muscle Pain and </li>	
 <li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Body Pain.</li>										
 
 						</ul>
