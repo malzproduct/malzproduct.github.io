@@ -208,6 +208,8 @@
 				</div>
 			</div>
 		</div>
+  </div>
+	  
 </section>
 <section class="footer">
 	<div class="container">
